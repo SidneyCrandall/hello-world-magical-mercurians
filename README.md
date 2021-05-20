@@ -1,5 +1,8 @@
 # Hello, World
 
+First group project of Day Cohort 47. Students were given the task of creating a static site that would display information based on the country of choice by that developer. 
+* HTML and CSS were the primarily used. 
+
 ## Goal
 
 Your team is going to build a travel brochure site. Each of you will pick a country that you have always wanted to visit and build a page with the following components.
